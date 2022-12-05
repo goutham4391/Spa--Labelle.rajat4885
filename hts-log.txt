@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 13 Nov 2022 20:16:26 at https://www.labelle-artistry.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.labelle-artistry.com/ -O1 "C:\Users\RAJAT SINGH\OneDrive\Desktop\Internship myknot\Day23\Web114\Site114" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:22:42	Error: 	"Not Found" (404) at link https://www.labelle-artistry.com/lash-extensions (from https://www.labelle-artistry.com/)
+20:22:42	Error: 	"Not Found" (404) at link https://www.labelle-artistry.com/skincare (from https://www.labelle-artistry.com/)
+20:22:42	Error: 	"Not Found" (404) at link https://www.labelle-artistry.com/https://www.google.com/maps/place/La+Belle+Studio/@39.6060811,-75.782414,11z/data=!3m1!5s0x89c6fd122a44b39f:0x2fd943f43760526b!4m8!1m2!2m1!1sla+belle+studio+wilmington!3m4!1s0x89c6fd100f13dc29:0x929c205f22bb3ea9!8m2!3d39.753185!4d-75.5598977 (from https://www.labelle-artistry.com/)
+20:22:42	Error: 	"Not Found" (404) at link https://www.labelle-artistry.com/terms-of-service-1 (from https://www.labelle-artistry.com/)
+20:22:42	Error: 	"Not Found" (404) at link https://www.labelle-artistry.com/forms (from https://www.labelle-artistry.com/)
+20:22:42	Error: 	"Not Found" (404) at link https://www.labelle-artistry.com/c (from https://connect.facebook.net/en_US/fbevents.js)
+20:22:42	Error: 	"Not Found" (404) at link https://www.labelle-artistry.com/b (from https://connect.facebook.net/en_US/fbevents.js)
+20:22:42	Error: 	"Not Found" (404) at link https://www.labelle-artistry.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+20:22:42	Error: 	"Not Found" (404) at link https://www.labelle-artistry.com/consent-forms (from https://www.labelle-artistry.com/policies-1)
+20:23:11	Error: 	"Not Found" (404) at link https://www.labelle-artistry.com/terms-conditions (from https://www.labelle-artistry.com/book)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 45 seconds : 182 links scanned, 171 files written (85604596 bytes overall) [58771241 bytes received at 145114 bytes/sec], 38557312 bytes transferred using HTTP compression in 81 files, ratio 16%, 2.0 requests per connection
+(10 errors, 0 warnings, 0 messages)
